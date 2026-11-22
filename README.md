@@ -1,2 +1,2 @@
 # my-first-project
-pass
+print("Hello World")
